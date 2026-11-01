@@ -8,20 +8,20 @@ Built with HTML5 and Bootstrap 5 framework.
 
 Live Website: https://fauzisyalza.github.io/learning-it-career-portal-bootsrap/
 
-### 🚧 Honest Note
+###  Honest Note
 This is a learning project, so some buttons and links may not work 100% as written. I intentionally pushed this project to GitHub as proof of my learning journey and growth as a beginner programmer.
 
-### 🛠️ Built With:
+###  Built With:
 - HTML5
 - Bootstrap 5
 - CSS
 
-### 📚 What I Learned:
+###  What I Learned:
 - How to create responsive layouts with Bootstrap Grid & Card
 - IT company landing page structure
 - How to deploy a website to GitHub Pages
 
-### 🎯 Next Improvements:
+###  Next Improvements:
 - Fix button functionality
 - Fix typos
 - Create a job application form page
